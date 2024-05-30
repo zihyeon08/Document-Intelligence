@@ -1,4 +1,4 @@
-# Vision_Odessy_Guide
+# Document_Intelligence_Odessy_Guide
 
 ## 1. Azure 서비스 구독하기
 Azure 서비스를 이용하려면 Azure에 먼저 가입을 해야 합니다.  
