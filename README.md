@@ -54,7 +54,7 @@ Visual Studio Code에서 파일 > 파일 열기 를 클릭해, 다운받은 poly
 <br>
 <br>
   
-[MS AI Odessy Vision Solution 가이드 ](https://learn.microsoft.com/ko-kr/training/challenges?id=ac42a113-3959-4e04-ba27-328567df7051&WT.mc_id=cloudskillschallenge_ac42a113-3959-4e04-ba27-328567df7051&ocid=Odyssey24_csc_fsi_India_wwl) 문서를 참고하며 polyglot 노트북을 함께 실행합니다.  
+[MS AI Odessy Document_Intelligence 가이드 ](https://learn.microsoft.com/ko-kr/training/challenges?id=cbad72b3-ac57-4af4-9168-7a2d8c36f75b&WT.mc_id=cloudskillschallenge_cbad72b3-ac57-4af4-9168-7a2d8c36f75b&ocid=Odyssey24_csc_fsi_Korea_wwl) 문서를 참고하며 polyglot 노트북을 함께 실행합니다.  
 <br>
 <br>
 
