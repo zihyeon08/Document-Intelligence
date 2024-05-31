@@ -11,12 +11,12 @@ Git을 사용할 수 있는 환경에서 실습 폴더를 사용할 위치로 �
 
 로컬에 실습을 위한 폴더를 생성해주세요
 
-
+<br></br>
 이후,
 
 tutorial1.ipynb , tutorial2.ipynb 파일을 다운 받고,
 
-<img src="./image/check.png", height="200px", width="100px">
+![poster](./image/check.png)
 
 이 그림에서처럼 로컬로 만든 실습 폴더 안 01-prebuild-models, 02-customdocument-intelligence 폴더에 각각 넣어줍니다.
 
